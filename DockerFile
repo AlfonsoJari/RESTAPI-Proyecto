@@ -14,13 +14,13 @@ EXPOSE 5018
 ARG JAR_FILE=target/SpringBootJwtAuthentication-0.0.1.jar
 
 # Add the application's jar to the container
-ADD ${JAR_FILE} RESTAPI-Proyecto.jar
+ADD ${JAR_FILE} restapi-proyecto.jar
 
 # Run the jar file 
-ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/RESTAPI-Proyecto.jar"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/restapi-proyecto.jar"]
 
 # docker build
-# sudo docker build -t alfonsojari/RESTAPI-Proyecto .
+# sudo docker build -t alfonsojari/restapi-proyecto .
 
 # docker run
-# sudo docker run --name mayahaj-RESTAPI -p 5018:8080 -d alfonsojari/RESTAPI-Proyecto
+# sudo docker run --name mayahaj-RESTAPI -p 5018:8080 -d alfonsojari/restapi-proyecto
