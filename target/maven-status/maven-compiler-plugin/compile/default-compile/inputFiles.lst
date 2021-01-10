@@ -19,5 +19,6 @@ C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtaut
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\TestRestAPIs.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\Role.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\security\services\UserDetailsServiceImpl.java
+C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\UserController.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\security\services\UserPrinciple.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\message\response\JwtResponse.java
