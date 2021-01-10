@@ -1,3 +1,4 @@
+C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\Covid.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\RoleName.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\Imc.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\ImcController.java
@@ -5,6 +6,7 @@ C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtaut
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\AuthRestAPIs.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\security\WebSecurityConfig.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\SpringBootJwtAuthenticationApplication.java
+C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\repository\CovidRepository.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\message\request\SignUpForm.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\repository\ImcRepository.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\message\request\LoginForm.java
@@ -13,6 +15,7 @@ C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtaut
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\repository\RoleRepository.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\User.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\repository\UserRepository.java
+C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\CovidController.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\controller\TestRestAPIs.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\model\Role.java
 C:\Users\alfon\Documents\APIS\restapi-proyecto\src\main\java\com\grokonez\jwtauthentication\security\services\UserDetailsServiceImpl.java
