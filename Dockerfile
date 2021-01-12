@@ -8,7 +8,7 @@ LABEL maintainer="alfonso.jari@gmail.com"
 VOLUME /tmp
 
 # Make port 8080 available to the world outside this container
-EXPOSE 5002
+EXPOSE 5013
 
 # The application's jar file
 ARG JAR_FILE=target/SpringBootJwtAuthentication-0.0.1.jar
@@ -23,4 +23,4 @@ ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/restapi-pr
 # sudo docker build -t alfonsojari/restapi-proyecto .
 
 # docker run
-# sudo docker run --name mayahaj-RESTAPI -p 5002:8080 -d alfonsojari/restapi-proyecto
+# sudo docker run --name mayahaj-RESTAPI -p 5013:8080 -d alfonsojari/restapi-proyecto
